@@ -1,0 +1,37 @@
+{
+  "staffData": [
+    {
+      "id": 1,
+      "firstName": "Ashwini",
+      "lastName": "S",
+      "emailID": "Ashwini@123.com",
+      "mobilenum": 1236547892,
+      "gender": "Female",
+      "status": "No",
+      "blood_group": "B+",
+      "address": "near Bus stand,Erode",
+      "city": "pallipalayam",
+      "state": "Tamil Nadu",
+      "dob": "12/02/1996",
+      "zip": 123654,
+      "photo": "/home/codingmart/Documents/angularApps/project/src/assets/form1.png"
+    },
+    {
+      "id": 2,
+      "firstName": "keerthivasan",
+      "lastName": "b",
+      "emailID": "balakeerthi2710@gmail.com",
+      "mobilenum": "9361444235",
+      "gender": "Male",
+      "status": "",
+      "blood_group": "b",
+      "address": "14/48, Seethakadhi street,\nErode",
+      "city": "Erode",
+      "state": "Tamil Nadu",
+      "dob": "2001-09-27",
+      "zip": "638006",
+      "photo": "C:\\fakepath\\2807710.jpg"
+    }
+  ],
+  "StudentData": []
+}
